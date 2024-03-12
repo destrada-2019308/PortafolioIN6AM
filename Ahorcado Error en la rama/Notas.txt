@@ -1,0 +1,15 @@
+Para hacer push y un repositorio
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/destrada-2019308/Ahorcado.git
+git push -u origin main
+
+git remote add origin https://github.com/destrada-2019308/Ahorcado.git
+git branch -M main
+git push -u origin main
+
+Agarre un letra
+
+a traves de un boton obtenga una letra y la valide con la palabra random
