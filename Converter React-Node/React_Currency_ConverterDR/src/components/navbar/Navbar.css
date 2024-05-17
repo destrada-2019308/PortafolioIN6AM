@@ -1,0 +1,16 @@
+.navbar {
+    background-color: skyblue;
+    color: white;
+    padding: 5em 10em;
+}
+
+.navbar-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.logo {
+    display: inline-block;
+}
